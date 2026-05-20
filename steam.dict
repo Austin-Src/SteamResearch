@@ -1,0 +1,15 @@
+# --- Structured State Keys Discovered in ProcMon ---
+"AppState"
+"appid"
+"Universe"
+"StateFlags"
+"localconfig"
+"Vocalconfig"
+
+# --- Text-Based Boundary Violations ---
+"\"\""
+"-1"
+"99999999999999"
+"0"
+"../../"
+"%"
